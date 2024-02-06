@@ -4,7 +4,7 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **DigitalOcean, React, Laravel, ExpressJS, NestJS, MongoDB, MySQL**
+- 🔭 I’m currently working on **DigitalOcean, React, Laravel, NestJS, MongoDB and MySQL**
 
 - 📫 Feel free to reach me out **vargased94@gmail.com**
 
