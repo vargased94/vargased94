@@ -11,3 +11,9 @@
 <div style="display:flex;justify-content:center;align-items:center;height:auto;width:100%;">
   <img style="width:100%;height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargased94&layout=compact&theme=gotham&langs_count=8"/>
 </div>
+
+<div style="width: 100%; text-align: center;">
+  <div style="display: table; margin: 0 auto;">
+    <img style="max-width: 60%; max-height: 60%; width: auto; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargased94&layout=compact&theme=gotham&langs_count=8"/>
+  </div>
+</div>
