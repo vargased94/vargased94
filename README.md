@@ -11,6 +11,7 @@
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargased94&layout=compact&theme=gotham&langs_count=8"/>
+  <img  style="height:100%;width:49%;max-width: 10%" src="https://skillicons.dev/icons?i=git,github,js,ts,nodejs,php,swift,html,css,react,nextjs,redux,nestjs,laravel,express,bootstrap,materialui,tailwind,docker,figma,firebase,mongodb,mysql,linux,postman,vscode&perline=13"/>
 </div>
 
 <!--h1 without bottom border-->
