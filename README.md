@@ -9,5 +9,5 @@
 - 📫 Feel free to reach me out **vargased94@gmail.com**
 
 <div style="display:flex;justify-content:center;align-items:center;height:100vh;">
-  <img style="max-width: 60%; max-height: 60%; width: auto; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargased94&layout=compact&theme=gotham&langs_count=8"/>
+  <img style="max-width:60%;max-height:60%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargased94&layout=compact&theme=gotham&langs_count=8"/>
 </div>
