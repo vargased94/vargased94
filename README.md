@@ -10,9 +10,7 @@
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
-  <div style="height:100%;width:24%;max-width: 10%">-</div>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargased94&layout=compact&theme=gotham&langs_count=8"/>
-  <div style="height:100%;width:24%;max-width: 10%">-</div>
 </div>
 
 <!--h1 without bottom border-->
