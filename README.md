@@ -7,7 +7,3 @@
 - 🔭 I’m currently working on **DigitalOcean, React, Laravel, ExpressJS, NestJS, MongoDB, MySQL**
 
 - 📫 Feel free to reach me out **vargased94@gmail.com**
-
-<div style="position: relative; width: 100%; height: 100vh; display: flex; justify-content: center; align-items: center;">
-  <img style="max-width: 60%; max-height: 60%; width: auto; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargased94&layout=compact&theme=gotham&langs_count=8"/>
-</div>
