@@ -13,6 +13,6 @@ La mayor parte de mi trabajo profesional vive en repositorios privados de las em
 
 ## Contacto
 
-**Escríbeme a [vargased94@gmail.com](mailto:vargased94@gmail.com)** para propuestas de trabajo o colaboración. También estoy en [LinkedIn](https://www.linkedin.com/in/vargased94).
+**Escríbeme por [LinkedIn](https://www.linkedin.com/in/vargased94)** para propuestas de trabajo o colaboración.
 
 <!-- Responsable: Eduardo Vargas. Última revisión: 2026-11-19. Revisar cuando: cambie de puesto, publique un proyecto nuevo o haga público un repositorio. -->
